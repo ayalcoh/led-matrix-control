@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +44,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+# VS Code specific files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Flutter/Dart specific
+mobile-app/build/
+mobile-app/.dart_tool/
+mobile-app/.flutter-plugins
+...
+>>>>>>> 8b52f3b8bdb6f326fc4bfeb82e0bc6ff4f3b8d03
