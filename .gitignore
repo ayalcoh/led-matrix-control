@@ -1,0 +1,13 @@
+# VS Code specific files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Flutter/Dart specific
+mobile-app/build/
+mobile-app/.dart_tool/
+mobile-app/.flutter-plugins
+...
